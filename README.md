@@ -1,7 +1,7 @@
 # 💫 About Me:
 Building secure applications, exploring offensive security, and learning system internals. Currently developing **Shrypher**, contributing to personal open-source projects, solving DSA problems on LeetCode, and continuously improving my skills in cybersecurity, cloud, and backend engineering.<br>
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athrvs.pvt17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvs17) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Choice_Rhubarb_4707) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/athrvs_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cypheratharv@gmail.com) 
 
 # 💻 Tech Stack:
