@@ -20,11 +20,11 @@ Building secure applications, exploring offensive security, and learning system 
 
 A collection of ESP32-based wireless security projects focused on:
 
-* Wi-Fi Deauthentication
-* Evil Twin Access Point
-* Captive Portal Research
-* Wireless Packet Analysis
-* ESP32 Security Automation
+* Wi-Fi Deauthentication.
+* Evil Twin Access Point.
+* Captive Portal Research.
+* Wireless Packet Analysis.
+* ESP32 Security Automation.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athrvs.pvt17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvs17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/athrvs_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cypheratharv@gmail.com) 
