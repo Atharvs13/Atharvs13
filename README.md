@@ -9,7 +9,7 @@ Building secure applications, exploring offensive security, and learning system 
 | -------------------- | ---------------------------------- |
 | 🏆 TryHackMe Ranking | Top 2% Globally                    |
 | 🌍 Global Rank       | ~40,000 among 7M+ users            |
-| 🇮🇳 India Rank        | ~5,000 among 7M+ users             |
+| 🇮🇳 India Rank        | ~6,000 among 7M+ users             |
 | 🎓 Certification     | COFPS ICIP Red Team Leaders Certified               |
 | 🧪 Hands-on Learning | TryHackMe, Hack The Box, Real Labs |
 | ⚔️ Specialization    | Offensive Security & Red Teaming   |
